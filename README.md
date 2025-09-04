@@ -27,9 +27,9 @@ Built with care by **Vasu Tripathi**.
    
 
 2. Install everything  
-   \`\`\`bash
+   bash
    npm install
-   \`\`\`
+
 
 3. Start the app  
    
@@ -37,34 +37,6 @@ Built with care by **Vasu Tripathi**.
    
    Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
----
-
-##  How to put it online (GitHub Pages)
-1. Install gh-pages  
-   bash
-   npm install gh-pages --save-dev
-   
-
-2. Add these scripts to your \`package.json\`  
-   json
-   "scripts": {
-     "deploy": "gh-pages -d dist",
-     "predeploy": "npm run build"
-   }
-   
-
-3. Update \`vite.config.js\` with your repo name  
-   js
-   export default defineConfig({
-     base: "/Quiz-App/",
-     plugins: [react()],
-   })
-
-
-4. Deploy  
-   
-   npm run deploy
-   
 
 Your app will be live at:  
 [https://VasuTripathi.github.io/Quiz-App/](https://VasuTripathi.github.io/Quiz-App/)
