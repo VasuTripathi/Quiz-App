@@ -1,6 +1,8 @@
 
 # Quiz App 
 
+Live Link -  https://quiz-app-psi-cyan.vercel.app/
+
 A simple and modern quiz app for students to practice and test their skills.  
 Built by **Vasu Tripathi**.
 ---
