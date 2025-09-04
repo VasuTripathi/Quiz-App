@@ -1,12 +1,24 @@
-# React + Vite
+Quiz App
+A modern, responsive quiz app for students to practice and test their skills.
+Created by Vasu Tripathi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Features
+Multiple quiz categories (Quants, Aptitude, Numericals, Programming, etc.)
+Difficulty level selection (Easy, Medium, Hard)
+Timer for each question
+Randomized questions for every attempt
+Review answers after quiz completion
+Quiz history (view previous scores)
+Mobile-friendly and accessible design
+Admin panel to add/edit questions (local only)
+Getting Started
+Install dependencies:
+Run the app locally:
+Open http://localhost:5173 in your browser.
+Deploying to GitHub Pages
+Install gh-pages:
+Add to package.json:
+Set your repo name as the base in vite.config.js:
+Deploy:
+Your app will be live at:
+https://VasuTripathi.github.io/Quiz-App/
