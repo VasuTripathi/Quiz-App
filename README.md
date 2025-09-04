@@ -1,6 +1,4 @@
-const fs = require("fs");
 
-const content = `
 # Quiz App 
 
 A simple and modern quiz app for students to practice and test their skills.  
