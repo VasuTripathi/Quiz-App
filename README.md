@@ -35,8 +35,7 @@ Built with care by **Vasu Tripathi**.
    
    Then open [http://localhost:5173](http://localhost:5173) in your browser.
 
-
-Your app will be live at:  
+ App live at:  
 [https://VasuTripathi.github.io/Quiz-App/](https://VasuTripathi.github.io/Quiz-App/)
 
 
