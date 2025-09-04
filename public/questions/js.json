@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Which keyword declares a block-scoped variable?",
+    "options": ["var", "let", "const", "static"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What does Array.prototype.filter return?",
+    "options": ["A boolean", "The same array", "A new array", "An iterator"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which statement is true about '==='?",
+    "options": ["Performs type coercion", "Checks value and type", "Only checks type", "Only checks value"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the output of Number('10') + 5?",
+    "options": ["'105'", "NaN", "15", "Error"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which feature lets functions capture variables from their outer scope?",
+    "options": ["Hoisting", "Closure", "Currying", "Shadowing"],
+    "correctIndex": 1
+  }
+]
+

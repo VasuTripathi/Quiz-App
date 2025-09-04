@@ -1,0 +1,54 @@
+[
+  {
+    "question": "A box contains 4 blue, 6 black, and 2 white marbles. If 3 marbles are drawn at random, what is the probability that all are black?",
+    "options": [
+      "1/11",
+      "1/12",
+      "3/12",
+      "1/22"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The second term of an AP is 8 and the 8th term is 2 more than thrice the second term. Find the sum of the first 20 terms.",
+    "options": [
+      "670",
+      "560",
+      "720",
+      "600"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A and B together can do a piece of work in 12 days. A alone can do it in 20 days. How long will B alone take?",
+    "options": [
+      "30 days",
+      "24 days",
+      "15 days",
+      "12 days"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A student scores 72 marks in English, 65 in Maths, 70 in Science, and 63 in Hindi. If the maximum marks for each subject are 100, what is his overall percentage?",
+    "options": [
+      "67.5%",
+      "72%",
+      "65%",
+      "70%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The average weight of 10 students is 45 kg. If one more student joins and the new average becomes 46 kg, find the weight of the new student.",
+    "options": [
+      "56 kg",
+      "46 kg",
+      "45 kg",
+      "50 kg"
+    ],
+    "correctIndex": 0
+  }
+]
+
+

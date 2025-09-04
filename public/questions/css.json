@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Which property controls the spacing outside an element's border?",
+    "options": ["padding", "margin", "gap", "outline"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What layout module enables flexible row/column alignment?",
+    "options": ["Grid", "Flexbox", "Float", "Block"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which unit scales with the root font size?",
+    "options": ["em", "rem", "px", "%"],
+    "correctIndex": 1
+  },
+  {
+    "question": "How do you select a child element with class 'item' inside '.list'?",
+    "options": [".list .item", ".list > .item", ".list + .item", "#list .item"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which property creates a stacking context and blur background?",
+    "options": ["backdrop-filter", "filter", "opacity", "mix-blend-mode"],
+    "correctIndex": 0
+  }
+]
+

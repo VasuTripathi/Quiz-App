@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Which hook runs after the component renders?",
+    "options": ["useState", "useEffect", "useMemo", "useCallback"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What prop lets you pass data down to a child component?",
+    "options": ["state", "context", "props", "childrenOnly"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which hook memoizes a computed value?",
+    "options": ["useRef", "useMemo", "useState", "useReducer"],
+    "correctIndex": 1
+  },
+  {
+    "question": "React Router: what component renders the matching route element?",
+    "options": ["Switch", "Outlet", "Link", "Navigate"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the recommended way to update state based on the previous value?",
+    "options": ["setState(value)", "setState(prev => next)", "state = next", "useRef(next)"],
+    "correctIndex": 1
+  }
+]
+

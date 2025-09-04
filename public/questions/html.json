@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Which tag introduces the main heading of a page?",
+    "options": ["<h1>", "<head>", "<title>", "<header>"],
+    "correctIndex": 0
+  },
+  {
+    "question": "What attribute makes a link open in a new tab?",
+    "options": ["target=\"_new\"", "rel=\"blank\"", "target=\"_blank\"", "open=\"tab\""],
+    "correctIndex": 2
+  },
+  {
+    "question": "Which element is best for navigation links?",
+    "options": ["<nav>", "<aside>", "<menu>", "<footer>"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which attribute provides alternative text for an image?",
+    "options": ["title", "alt", "caption", "aria-label"],
+    "correctIndex": 1
+  },
+  {
+    "question": "Which doctype triggers standards mode in modern browsers?",
+    "options": ["<!DOCTYPE HTML>", "<!DOCTYPE html5>", "<!DOCTYPE xhtml>", "<!DOCTYPE>"],
+    "correctIndex": 0
+  }
+]
+
