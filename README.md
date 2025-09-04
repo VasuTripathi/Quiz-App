@@ -2,7 +2,7 @@
 # Quiz App 
 
 A simple and modern quiz app for students to practice and test their skills.  
-Built with care by **Vasu Tripathi**.
+Built by **Vasu Tripathi**.
 ---
 
 ##  What it does
